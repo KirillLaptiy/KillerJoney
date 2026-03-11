@@ -1,0 +1,4 @@
+{
+	"name": "Characters.Enemies.Slime.Scripts",
+	"references":[ "GUID:63bc3c2b5f7f76242af94a265ad67e7f", "GUID:7de2ff9063c52ed48af2d4378e2c1be4", "GUID:02af1a3db578eed4da5fabfb6da6daae", "GUID:b4a0fc4c1a297b041aa73ef866e19f9b", "GUID:233a3127a92cfb94c8b74c1b6581fe2a" ]
+}

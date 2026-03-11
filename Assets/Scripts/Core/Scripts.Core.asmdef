@@ -1,0 +1,4 @@
+{
+	"name": "Scripts.Core",
+	"references":[ "GUID:30817c1a0e6d646d99c048fc403f5979", "GUID:574fe4ed9d7ded84ba0aa5abd3ff8298", "GUID:5a5babb12f5546d43aff68ca730bbb60", "GUID:233a3127a92cfb94c8b74c1b6581fe2a" ]
+}

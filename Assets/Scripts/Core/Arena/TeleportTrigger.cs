@@ -41,7 +41,7 @@ namespace Core.Arena
             _groundTilemap.transform.position = arenaPos;
             
             // Move teleport zone
-            GetComponent<Transform>().position = arenaPos + _gridManager.Center;
+            GetComponent<Transform>().position = _gridManager.Center;
         }
     }
 }

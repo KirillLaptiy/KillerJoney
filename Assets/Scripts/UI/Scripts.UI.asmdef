@@ -1,0 +1,4 @@
+{
+	"name": "Scripts.UI",
+	"references":[ "GUID:30817c1a0e6d646d99c048fc403f5979", "GUID:894a6cc6ed5cd2645bb542978cbed6a9", "GUID:233a3127a92cfb94c8b74c1b6581fe2a" ]
+}

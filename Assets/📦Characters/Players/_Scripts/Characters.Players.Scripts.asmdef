@@ -1,0 +1,21 @@
+{
+    "name": "Characters.Players.Scripts",
+    "rootNamespace": "",
+    "references": [
+        "GUID:233a3127a92cfb94c8b74c1b6581fe2a",
+        "GUID:02af1a3db578eed4da5fabfb6da6daae",
+        "GUID:30817c1a0e6d646d99c048fc403f5979",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:555b1128fab422947939db9102359fa9",
+        "GUID:4307f53044263cf4b835bd812fc161a4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

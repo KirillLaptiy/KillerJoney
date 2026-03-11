@@ -1,0 +1,4 @@
+{
+	"name": "Objects.Bullet",
+	"references":[ "GUID:233a3127a92cfb94c8b74c1b6581fe2a", "GUID:02af1a3db578eed4da5fabfb6da6daae" ]
+}
